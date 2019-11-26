@@ -1811,7 +1811,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__main {
-    padding-top: 20rem;
+    padding-top: 10rem;
     position: relative;
 }
 
